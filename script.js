@@ -7,7 +7,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
       introElement.classList.add("hidden");
     }, 1000);
   });
-  document.getElementById('message').innerHTML=("From Ibrahim Al-Husseini")
 window.addEventListener('contextmenu', function (e) {
   e.preventDefault();
 });
